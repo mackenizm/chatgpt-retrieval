@@ -1,4 +1,6 @@
 constants.py
+.env
+data/msal_token_cache.json
 __pycache__
 persist/
 .DS_Store

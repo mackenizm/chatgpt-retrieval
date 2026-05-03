@@ -1,0 +1,15 @@
+unstructured
+tiktoken
+pandas
+numpy
+python-dotenv
+pypdf
+openai
+beautifulsoup4
+pymupdf
+msal
+requests
+langchain
+langchain-openai
+langchain-text-splitters
+langchain-chroma
